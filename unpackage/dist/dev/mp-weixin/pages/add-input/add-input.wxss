@@ -1,0 +1,15 @@
+
+.xila.data-v-d32c1cc2{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	margin-left: 30%;
+}
+.uni-textarea.data-v-d32c1cc2{
+	border: 1rpx solid #EEEEEE;
+	height: 400rpx;
+}
+
